@@ -9,4 +9,5 @@ while total!=val:
 	else:
 			num += 1
 			total += 1
-print "the num of {} is {}".format(total,num)
+print ("the num of {} is {}".format(total,num))
+print "add two or more lines"
