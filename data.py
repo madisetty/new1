@@ -4,3 +4,4 @@ if new == "yes":
 	print "eat pizza"
 else:
 	print "drink water"
+	print "dirnk"
