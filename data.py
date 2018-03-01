@@ -1,3 +1,6 @@
-print "Hello World"
-print "this is new line"
-print "this third line"
+new = input("Enter input: ")
+if new == "yes":
+	print "eat samosa"
+	print "eat pizza"
+else:
+	print "drink water"
